@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# Assignment 01: To-Do List Report
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Student Name:** Abdelrhman Walid Morsy Muhammad
+**Course:** Mobile Application Development
+**University:** Helwan University (FEHU)
 
-## Get started
+## Color Palette: Midnight Indigo
+![Midnight Indigo Palette](./assets/palette.png)
 
-1. Install dependencies
+- **Background:** `#0f172a` (Deep Slate)
+- **Primary/Accent:** `#6366f1` (Indigo)
+- **Secondary Surfaces:** `#1e293b` (Slate 800)
+- **Text (Primary):** `#f8fafc`
+- **Text (Secondary):** `#64748b`
 
-   ```bash
-   npm install
-   ```
+## Fonts Used
+- **Montserrat SemiBold**: Used for main headers for a premium, clean look.
+- **Inter Regular/Bold**: Used for body text and interactive elements for high readability.
 
-2. Start the app
+## Features
+- **Custom Fonts**: Integrated Google Fonts (Montserrat/Inter) via Expo.
+- **Priority System**: Add goals with Low, Medium, or High priority (color-coded).
+- **Edit Mode**: Edit existing goals using a clean Modal interface.
+- **Task Completion**: Toggle goals as "done" with strike-through and checkmarks.
+- **Progress Tracking**: Dynamic header showing completion statistics.
+- **Clear All Done**: Batch-action to remove all completed tasks.
+- **Delete Confirmation**: Native Alerts to prevent accidental task loss.
 
-   ```bash
-   npx expo start
-   ```
+## Screenshots
+1. **Empty State**: ![Empty State](./screenshots/empty.png)
+2. **Adding Goal**: ![Adding Goal](./screenshots/adding.png)
+3. **List View**: ![List View](./screenshots/list.png)
 
-In the output, you'll find options to open the app in a
+## Runtime Video
+- **Link:** [Google Drive Folder](https://drive.google.com/drive/folders/17x0C5kiczE8uZsbmCm8WXIYib2gOGtpw)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Expo Snack Link
+- **Link:** [Assignment 01 Snack](https://snack.expo.dev/@abdelrhman_walid/github.com-abdelrhmanwalidm-mobile-labs:assignment01_todolist)
