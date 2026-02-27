@@ -4,7 +4,9 @@
 **Course:** Mobile Application Development
 **University:** Helwan University (FEHU)
 
-## Color Palette
+## Color Palette: Midnight Indigo
+![Midnight Indigo Palette](./assets/palette.png)
+
 - **Background:** `#0f172a` (Deep Slate)
 - **Primary/Accent:** `#6366f1` (Indigo)
 - **Secondary Surfaces:** `#1e293b` (Slate 800)
@@ -33,7 +35,7 @@
 3. **List View**: ![List View](./screenshots/list.png)
 
 ## Runtime Video
-- **Link:** [Insert YouTube/Google Drive Link Here]
+- **Link:** [Google Drive Folder](https://drive.google.com/drive/folders/17x0C5kiczE8uZsbmCm8WXIYib2gOGtpw)
 
 ## Expo Snack Link
-- **Link:** [Insert Expo Snack Link Here]
+- **Link:** [Assignment 01 Snack](https://snack.expo.dev/@abdelrhman_walid/github.com-abdelrhmanwalidm-mobile-labs:assignment01_todolist)
