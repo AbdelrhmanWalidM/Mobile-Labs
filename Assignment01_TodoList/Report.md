@@ -16,10 +16,13 @@
 - **Inter Regular/Bold**: Used for body text and interactive elements for high readability.
 
 ## Features
-- Custom integrated Google Fonts via Expo.
-- Premium dark mode design with glassmorphism touches.
-- Add/Remove goals functionality.
-- Scrolling list using `FlatList`.
+- **Custom Fonts**: Integrated Google Fonts (Montserrat/Inter) via Expo.
+- **Priority System**: Add goals with Low, Medium, or High priority (color-coded).
+- **Edit Mode**: Edit existing goals using a clean Modal interface.
+- **Task Completion**: Toggle goals as "done" with strike-through and checkmarks.
+- **Progress Tracking**: Dynamic header showing completion statistics.
+- **Clear All Done**: Batch-action to remove all completed tasks.
+- **Delete Confirmation**: Native Alerts to prevent accidental task loss.
 
 ## Screenshots
 > [!NOTE]
